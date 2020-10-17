@@ -2,13 +2,10 @@
 [Shadow Removal by a Lightness-Guided Network with Training on Unpaired Data.](http://arxiv.org/abs/2006.15617)
 
 ## Results of LG-ShadowNet
-Access code: 1111
 
-[AISTD](https://pan.baidu.com/s/18fcRpubDixjHpWegIFiU1A)
+GoogleDrive: [AISTD](https://drive.google.com/file/d/1psjWoflIK2tPC0mzMNyp-LYA1QkQeYtK/view?usp=sharing)/[ISTD](https://drive.google.com/file/d/1ET7o43qRFV5xiKyw-qByhw0qFQX0OJ5i/view?usp=sharing)/[USR](https://drive.google.com/file/d/1MagXXnjVRdYG-25J8kq3e4o0ts7fcBMS/view?usp=sharing)
 
-[ISTD](https://pan.baidu.com/s/1rXnCGbr87Nc3oUGTVu190g)
-
-[USR](https://pan.baidu.com/s/1QtAdumC_jfDfb-iq7bGZ6g)
+BaiduNetdisk: [AISTD](https://pan.baidu.com/s/18fcRpubDixjHpWegIFiU1A)/[ISTD](https://pan.baidu.com/s/1rXnCGbr87Nc3oUGTVu190g)/[USR](https://pan.baidu.com/s/1QtAdumC_jfDfb-iq7bGZ6g) (Access code: 1111)
 
 All codes will be released to public soon.
 
