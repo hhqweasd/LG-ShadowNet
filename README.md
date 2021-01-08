@@ -1,6 +1,28 @@
 # LG-ShadowNet
 [Shadow Removal by a Lightness-Guided Network with Training on Unpaired Data.](http://arxiv.org/abs/2006.15617)
 
+## Dependencies
+This code uses the following libraries
+- python 3.7+
+- pytorch 1.1+ & tochvision
+- scikit-image
+
+## Train and test on the adjusted ISTD dataset
+Train 
+1. Set the path of the dataset in ```train_aistd_module1.py```
+2. Run ```train_aistd_module1.py```
+3. Set the paths of the saved module1 models ```netG_A2B.pth``` and ```netG_B2A.pth``` and the dataset in ```train_aistd.py```
+4. Run ```train_aistd.py```
+
+Test   
+1. Set the paths of the dataset and saved LG-ShadowNet models ```netG_A2B.pth``` in ```test_aistd.py```
+2. Run ```test_aistd.py```
+
+
+## Acknowledgments
+Code is implemented based on a [Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN).
+
+
 ## Results of LG-ShadowNet
 
 GoogleDrive: [AISTD](https://drive.google.com/file/d/1psjWoflIK2tPC0mzMNyp-LYA1QkQeYtK/view?usp=sharing)/[ISTD](https://drive.google.com/file/d/1ET7o43qRFV5xiKyw-qByhw0qFQX0OJ5i/view?usp=sharing)/[USR](https://drive.google.com/file/d/1MagXXnjVRdYG-25J8kq3e4o0ts7fcBMS/view?usp=sharing)
