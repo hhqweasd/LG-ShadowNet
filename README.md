@@ -20,7 +20,7 @@ Test
 
 
 ## Acknowledgments
-Code is implemented based on a [Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN).
+Code is implemented based on [Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN).
 
 
 ## Results of LG-ShadowNet
