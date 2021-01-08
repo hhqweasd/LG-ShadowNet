@@ -11,11 +11,11 @@ This code uses the following libraries
 Train 
 1. Set the path of the dataset in ```train_aistd_module1.py```
 2. Run ```train_aistd_module1.py```
-3. Set the paths of the saved module1 models ```netG_A2B.pth``` and ```netG_B2A.pth``` and the dataset in ```train_aistd.py```
+3. Set the paths of the saved module1 models ```(netG_A2B.pth,netG_B2A.pth)``` and the dataset in ```train_aistd.py```
 4. Run ```train_aistd.py```
 
 Test   
-1. Set the paths of the dataset and saved LG-ShadowNet models ```netG_A2B.pth``` in ```test_aistd.py```
+1. Set the paths of the dataset and saved LG-ShadowNet models ```(netG_A2B.pth)``` in ```test_aistd.py```
 2. Run ```test_aistd.py```
 
 
@@ -45,3 +45,8 @@ All codes will be released to public soon.
 | LG-ShadowNet | 9.9 | 3.4* | 4.4* |
 
 *Since the RMSE in shadow and non-shadow regions are computed on each image first and then compute the average of all images, the results may be different from yours.
+
+## 其他说明
+有问题可以联系我
++86 18410949118
+刘志浩
