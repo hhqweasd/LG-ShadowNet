@@ -1,12 +1,16 @@
 # LG-ShadowNet
-[Shadow Removal by a Lightness-Guided Network with Training on Unpaired Data.](http://arxiv.org/abs/2006.15617)
+[Shadow Removal by a Lightness-Guided Network with Training on Unpaired Data.](https://ieeexplore.ieee.org/document/9318562)
 
 ```
 @article{liu2020shadow,
   title={Shadow Removal by a Lightness-Guided Network with Training on Unpaired Data},
   author={Liu, Zhihao and Yin, Hui and Mi, Yang and Pu, Mengyang and Wang, Song},
   journal={IEEE Transactions on Image Processing},
-  note={to appear}
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIP.2020.3048677}
 }
 ```
 
