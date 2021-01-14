@@ -31,6 +31,9 @@ Test
 1. Set the paths of the dataset and saved LG-ShadowNet models ```(netG_A2B.pth)``` in ```test_aistd.py```
 2. Run ```test_aistd.py```
 
+## Evaluate
+1. Set the paths of the shadow removal result and the dataset in ```evaluate.m```
+2. Run ```evaluate.m```
 
 ## Acknowledgments
 Code is implemented based on [Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN).
@@ -48,16 +51,16 @@ All codes will be released to public soon.
 | Method | Shadow | Non-shadow | All |
 |------|:-----|:-----:|------|
 | [Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN)(our run)| 11.5 | 4.5* | 5.5* |
-| LG-ShadowNet | 10.6 | 4.0* | 5.0* |
+| LG-ShadowNet | 10.6* | 4.0* | 5.0 |
 
 ## AISTD Results (test image size: 256x256) 
 | Method | Shadow | Non-shadow | All |
 |------|:-----|:-----:|------|
 | [Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN)(result from [this paper](https://github.com/lmhieu612/FSS2SR))| 12.4 | 4.0* | 5.3* |
 | [Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN)(our run)| 10.8 | 3.8* | 4.8* |
-| LG-ShadowNet | 9.9 | 3.4* | 4.4* |
+| LG-ShadowNet | 9.9* | 3.4* | 4.4 |
 
-*Since the RMSE in shadow and non-shadow regions are computed on each image first and then compute the average of all images, the results may be different from yours.
+*Since the ~~RMSE~~ (MAE) in shadow and non-shadow regions are computed on each image first and then compute the average of all images, the results may be different from yours.
 
 ## 其他说明
 有问题可以联系我
