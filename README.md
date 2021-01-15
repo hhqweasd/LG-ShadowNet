@@ -47,13 +47,13 @@ BaiduNetdisk: [AISTD](https://pan.baidu.com/s/18fcRpubDixjHpWegIFiU1A)/[ISTD](ht
 
 All codes will be released to public soon.
 
-## AISTD Results (test image size: 480x640)
+## AISTD Results (size: 480x640)
 | Method | Shadow | Non-shadow | All |
 |------|:-----|:-----:|------|
 | [Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN)(our run)| 11.5* | 4.5* | 5.5 |
 | LG-ShadowNet | 10.6* | 4.0* | 5.0 |
 
-## AISTD Results (test image size: 256x256) 
+## AISTD Results (size: 256x256) 
 | Method | Shadow | Non-shadow | All |
 |------|:-----|:-----:|------|
 | [Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN)(our run)| 10.8* | 3.8* | 4.8 |
