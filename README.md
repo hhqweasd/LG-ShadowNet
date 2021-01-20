@@ -2,15 +2,14 @@
 [Shadow Removal by a Lightness-Guided Network with Training on Unpaired Data.](https://ieeexplore.ieee.org/document/9318562)
 
 ```
-@article{liu2020shadow,
+@article{liu2021shadow,
   title={Shadow Removal by a Lightness-Guided Network with Training on Unpaired Data},
   author={Liu, Zhihao and Yin, Hui and Mi, Yang and Pu, Mengyang and Wang, Song},
-  journal={IEEE Transactions on Image Processing},
+  journal=TIP,
+  volume={30},
+  pages={1853--1865},
   year={2021},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TIP.2020.3048677}
+  publisher={IEEE}
 }
 ```
 
