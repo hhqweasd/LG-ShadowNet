@@ -5,7 +5,7 @@
 @article{liu2021shadow,
   title={Shadow Removal by a Lightness-Guided Network with Training on Unpaired Data},
   author={Liu, Zhihao and Yin, Hui and Mi, Yang and Pu, Mengyang and Wang, Song},
-  journal=TIP,
+  journal={IEEE Transactions on Image Processing},
   volume={30},
   pages={1853--1865},
   year={2021},
