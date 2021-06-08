@@ -59,8 +59,3 @@ All codes will be released to public soon.
 | LG-ShadowNet | 9.9* | 3.4* | 4.4 |
 
 *Since the ~~RMSE~~ (MAE) in shadow and non-shadow regions are computed on each image first and then compute the average of all images, the results may be different from yours.
-
-## 其他说明
-有问题可以联系我
-+86 18410949118
-刘志浩
